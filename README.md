@@ -11,6 +11,6 @@ API for Polling Questions
 - /questions/:id (To view a question and it’s options)
 
 ## steps to run app
-- clone the repo :
+- clone the repo : https://github.com/rishabh200012/Polling-Api
 - install packages using command: npm i
 - start server using command: nodemon server.js
